@@ -1,3 +1,6 @@
 [submodule "mtree"]
 	path = mtree
 	url = https://github.com/srj31/mtree
+[submodule "msqlite"]
+	path = msqlite
+	url = https://github.com/srj31/msqlite.git

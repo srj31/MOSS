@@ -4,3 +4,6 @@
 [submodule "msqlite"]
 	path = msqlite
 	url = https://github.com/srj31/msqlite.git
+[submodule "masyncio"]
+	path = masyncio
+	url = https://github.com/srj31/masyncio
